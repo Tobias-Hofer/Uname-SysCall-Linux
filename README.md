@@ -1,2 +1,2 @@
 # Uname-SysCall-Linux
-This C++ program represents the Uname System Call in Linux
+This C++ program retrieves and displays basic system information using the Uname System Call in Linux
